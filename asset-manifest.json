@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/login_mui/static/css/main.95244c24.css",
+    "main.js": "/login_mui/static/js/main.c4c029e8.js",
+    "static/js/787.bb34aa1d.chunk.js": "/login_mui/static/js/787.bb34aa1d.chunk.js",
+    "static/media/logo_girl.png": "/login_mui/static/media/logo_girl.0c550c100be3b9fe2df6.png",
+    "static/media/logo.svg": "/login_mui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/login_mui/index.html",
+    "main.95244c24.css.map": "/login_mui/static/css/main.95244c24.css.map",
+    "main.c4c029e8.js.map": "/login_mui/static/js/main.c4c029e8.js.map",
+    "787.bb34aa1d.chunk.js.map": "/login_mui/static/js/787.bb34aa1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95244c24.css",
+    "static/js/main.c4c029e8.js"
+  ]
+}
