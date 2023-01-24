@@ -13,7 +13,7 @@ import {
 function App() {
   return (
     <Container maxWidth="lg" style={{ overflowX: 'hidden' }}>
-      <Grid container flexDirection={{ xs: 'column-reverse', sm: 'row' }} >
+      <Grid container marginTop={-10} flexDirection={{ xs: 'column-reverse', sm: 'row' }} >
         <BrowserRouter  >
           <Routes>
 
